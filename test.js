@@ -1,1 +1,2 @@
-function AppBar() { }
+function
+ AppBar() { }
