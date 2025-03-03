@@ -11,4 +11,4 @@ console.log(c+10);
 
 console.log("Hello");
 
-console.log("Second print");
+console.log("Make it");
