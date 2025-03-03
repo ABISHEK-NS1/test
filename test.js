@@ -9,4 +9,4 @@ sum = a+b;
 let c = 0;
 console.log(c+10);
 
-console.log("Hello");
+console.log("Hi");
